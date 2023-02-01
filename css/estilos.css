@@ -1,0 +1,87 @@
+*{
+    background-color: rgb(2, 2, 49);
+}
+.grid{
+
+    display: grid;
+    grid-template-columns: 20% 60% 20% ;
+
+ 
+}
+#div2{
+    background-color: wheat;
+    display: grid;
+   grid-template-columns: 50% 50%;
+   grid-template-rows: 280px 340px;
+}
+ul{
+    background-color:wheat;
+}
+#ul2{
+    background-color:blanchedalmond;
+}
+h1{
+    white-space: nowrap; 
+    width: 220px; 
+    border-bottom: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: clip;
+    background-color:wheat;
+    font-family: 'PT Serif', serif;
+}
+h2{
+    background-color: wheat;
+    font-family: 'PT Serif', serif;
+
+    white-space: nowrap; 
+    width: 240px; 
+    border-bottom: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: clip;
+
+}
+#h23{
+    white-space: nowrap; 
+    width: 290px; 
+    border-bottom: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: clip;
+}
+button{
+    background-color: wheat;
+    font-family: 'PT Serif', serif;
+}
+h3{
+    white-space: nowrap; 
+    width: 155px; 
+    border-bottom: 1px solid #000000;
+    overflow: hidden;
+    text-overflow: clip;
+    background-color: wheat;
+    font-family: 'PT Serif', serif;
+
+}
+li{
+    background-color: wheat;
+
+}
+form{
+    background-color:wheat;
+
+}
+input{
+    background-color:white;
+
+}
+p{
+    background-color: wheat;
+}
+#boton{
+    background-color: white;
+    border-color: grey;
+    border-style: dashed;
+}
+#input2{
+    border-color: grey;
+    border-style: dashed;
+}
